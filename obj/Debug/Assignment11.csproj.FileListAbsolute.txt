@@ -1,0 +1,8 @@
+E:\Dotnet\Day9\Assignment11\Assignment11\bin\Debug\Assignment11.exe.config
+E:\Dotnet\Day9\Assignment11\Assignment11\bin\Debug\Assignment11.exe
+E:\Dotnet\Day9\Assignment11\Assignment11\bin\Debug\Assignment11.pdb
+E:\Dotnet\Day9\Assignment11\Assignment11\obj\Debug\Assignment11.csproj.AssemblyReference.cache
+E:\Dotnet\Day9\Assignment11\Assignment11\obj\Debug\Assignment11.csproj.SuggestedBindingRedirects.cache
+E:\Dotnet\Day9\Assignment11\Assignment11\obj\Debug\Assignment11.csproj.CoreCompileInputs.cache
+E:\Dotnet\Day9\Assignment11\Assignment11\obj\Debug\Assignment11.exe
+E:\Dotnet\Day9\Assignment11\Assignment11\obj\Debug\Assignment11.pdb
